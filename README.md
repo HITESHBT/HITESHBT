@@ -14,7 +14,6 @@ Feel free to explore my repositories for more projects and code samples!
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/T/tauri-logo-39352BD5A1-seeklogo.com.png" title="Tauri" alt="Tauri" width="40" height="40"/>&nbsp;
   <img src="https://www.freecodecamp.org/news/content/images/2021/01/rust-mascot.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
@@ -51,7 +50,7 @@ Feel free to explore my repositories for more projects and code samples!
 
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HITESHBT&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HITESHBT&theme=onedark)
 
 
 
